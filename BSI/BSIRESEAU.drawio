@@ -1,0 +1,167 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="h5BqgzOz8g5BnU1G2JjQ">
+    <mxGraphModel dx="1114" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-45" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="590" as="sourcePoint" />
+            <mxPoint x="160" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-43" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="728.8199999999999" y="590" as="sourcePoint" />
+            <mxPoint x="728.8199999999999" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-42" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="590" as="sourcePoint" />
+            <mxPoint x="560" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-41" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="590" as="sourcePoint" />
+            <mxPoint x="320" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0.544;entryY=0.546;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZFEIos-EVypomEYSKSWQ-36" target="ZFEIos-EVypomEYSKSWQ-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="57.6" as="sourcePoint" />
+            <mxPoint x="590" y="247.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0.337;entryY=0.328;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="ZFEIos-EVypomEYSKSWQ-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="197.6" as="sourcePoint" />
+            <mxPoint x="510" y="167.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0.367;exitY=0.78;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZFEIos-EVypomEYSKSWQ-30" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="815" y="126.19999999999999" as="sourcePoint" />
+            <mxPoint x="750" y="126.19999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-21" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="127.6" as="sourcePoint" />
+            <mxPoint x="443.3670588235294" y="127.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-20" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#ff0000;strokeWidth=3;exitX=0.632;exitY=0.256;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.975;entryY=0.348;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ZFEIos-EVypomEYSKSWQ-17" target="ZFEIos-EVypomEYSKSWQ-35" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" y="587.6" as="sourcePoint" />
+            <mxPoint x="90" y="417.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-19" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#ff0000;strokeWidth=3;exitX=0.825;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZFEIos-EVypomEYSKSWQ-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-5" y="577.6" as="sourcePoint" />
+            <mxPoint x="75" y="427.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="457.6" as="sourcePoint" />
+            <mxPoint x="428.96705882352944" y="267.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-15" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="457.6" as="sourcePoint" />
+            <mxPoint x="418.96705882352944" y="274.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.521;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="ZFEIos-EVypomEYSKSWQ-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="433.6" as="sourcePoint" />
+            <mxPoint x="547" y="277.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.521;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZFEIos-EVypomEYSKSWQ-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="177" y="417.6" as="sourcePoint" />
+            <mxPoint x="387" y="277.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-2" value="Serveur Windows AD&lt;div&gt;Serveur SQL&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
+          <mxGeometry x="40" y="539.6800000000001" width="42.4" height="75.72" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-4" value="Livebox - Acces Internet" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" parent="1" vertex="1">
+          <mxGeometry x="341" y="77.6" width="145.24" height="91.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZFEIos-EVypomEYSKSWQ-5" target="ZFEIos-EVypomEYSKSWQ-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="217.6" as="sourcePoint" />
+            <mxPoint x="440" y="487.6" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-5" value="Zyxel - PareFeu" style="image;html=1;image=img/lib/clip_art/networking/Firewall-page1_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="373.62" y="237.6" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-8" value="Switch DLINK 24 Ports&lt;br&gt;PRODUCTION" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="387.6" width="134.4" height="92.13" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-10" value="Switch DLINK 24 Ports&lt;br&gt;PRODUCTION" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="239.22" y="387.6" width="134.4" height="92.13" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-11" value="Switch DLINK 24 Ports&lt;br&gt;TECHNIQUE" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="387.6" width="134.4" height="92.13" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-12" value="Switch DLINK 16 Ports &lt;br&gt;TECHNIQUE" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_24_port_L2.svg;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="387.6" width="134.4" height="92.13" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-17" value="Serveur Archange" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" parent="1" vertex="1">
+          <mxGeometry x="820" y="175.2" width="47.49" height="84.8" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-25" value="SWITCH NETGEAR&lt;br&gt;4Port&amp;nbsp; POE" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;" parent="1" vertex="1">
+          <mxGeometry x="600" y="117.6" width="55" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0.367;exitY=0.78;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ZFEIos-EVypomEYSKSWQ-27" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="126.19999999999999" as="sourcePoint" />
+            <mxPoint x="655" y="126.19999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-27" value="WIFI&amp;nbsp;&lt;div&gt;MAGASINS&lt;/div&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" parent="1" vertex="1">
+          <mxGeometry x="714.4" y="94.6" width="60" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-30" value="WIFI ATELIER" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.wifi;pointerEvents=1" parent="1" vertex="1">
+          <mxGeometry x="809.4" y="94.6" width="60" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-32" value="SWITCH DLINK&lt;div&gt;4 PORTS&lt;/div&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.switch;" parent="1" vertex="1">
+          <mxGeometry x="599.25" y="187.6" width="55" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.367;exitY=0.78;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="735" y="196.63" as="sourcePoint" />
+            <mxPoint x="654" y="196.23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-35" value="PC RESERVE&amp;nbsp;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="1" vertex="1">
+          <mxGeometry x="730" y="175.2" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-36" value="ALARME (PORT 20)" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.alarm;" parent="1" vertex="1">
+          <mxGeometry x="614.4" y="40.00000000000001" width="52.8" height="37.6" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-38" value="RESEAU&amp;nbsp;&lt;div&gt;ADMINISTRATIF&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="1" vertex="1">
+          <mxGeometry x="275.22" y="547.5999999999999" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-39" value="RESEAU&amp;nbsp;&lt;div&gt;TECHNIQUE&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="1" vertex="1">
+          <mxGeometry x="516" y="552.9999999999999" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-40" value="RESEAU&amp;nbsp;&lt;div&gt;TECHNIQUE&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="1" vertex="1">
+          <mxGeometry x="676" y="552.9999999999999" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFEIos-EVypomEYSKSWQ-44" value="RESEAU&amp;nbsp;&lt;div&gt;ADMINISTRATIF&lt;/div&gt;" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" parent="1" vertex="1">
+          <mxGeometry x="142.00000000000003" y="559.9999999999999" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
