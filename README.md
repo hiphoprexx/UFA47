@@ -8,6 +8,3 @@ Je suis ouvert aux contributions et au feedback !
 
 Merci de passer par ici et bonne exploration ! 🚀  
 
----  
-
-Est-ce que cela convient, ou souhaitez-vous un ton différent ?
