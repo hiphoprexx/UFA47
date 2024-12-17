@@ -86,4 +86,4 @@ Ce script PowerShell permet de :
 
 ## **Contact**
 
-Pour toute question ou problème, veuillez contacter [votre.ryandetree@icloud.com](mailto:votre.ryandetree@icloud.com).
+Pour toute question ou problème, veuillez contacter [ryandetree@icloud.com](mailto:ryandetree@icloud.com).
